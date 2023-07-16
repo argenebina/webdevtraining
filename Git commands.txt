@@ -1,0 +1,9 @@
+git pull - pull repository from remote
+
+git status - check what is new
+
+git add . - will add repo from the staging
+
+git commit -m "message here"
+
+git push
